@@ -93,7 +93,7 @@ class ProjetoFinal{ //criando classe ProjetoFinal
       msg1("Opção Inexistente! \nTente novamente!");
       }
     }
-  
+  ler.close();
   }
   
   public static void msg1(String frase1){ //função para substituir System.out.println
