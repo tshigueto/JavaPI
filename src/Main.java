@@ -5,19 +5,14 @@
 5 Data da Última Modificação: 01/06/2023
 6 Versão do Java: 17 (Oracle)
 7 Equipe de Desenvolvimento:
-8 - Camila Pereira da Silva
-9 - Juliana Camargo
-10 - Thiago Shigueto Hossaka
+8 - Thiago Shigueto Hossaka
+9
+10 Descrição: Este programa é sobre a Turma do Chaves, a cada resposta correta, você tem uma pontuação.
 11
-12 Descrição: Este programa é sobre a Turma do Chaves, a cada resposta correta, você tem uma pontuação.
+12 O programa possui como exibição de perguntas, cálculo de pontuação, classificação dos jogadores.
 13
-15 O programa possui como exibição de perguntas, cálculo de pontuação,
-classificação dos jogadores.
-16 
-17
-18 O pacote "perguntas" contém as classes relacionadas ao gerenciamento de perguntas e
-respostas no jogo.*/
-
+14
+15 O pacote "perguntas" contém as classes relacionadas ao gerenciamento de perguntas e respostas no jogo.*/
 
 import java.util.*; //importar java.util toda
 
